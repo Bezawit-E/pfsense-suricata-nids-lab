@@ -39,6 +39,10 @@ Building this lab involved resolving several real-world network and OS deploymen
 * DNS & Routing Resolution: Fixed host-level DNS resolution issues, ensuring the pfSense system could consistently update Suricata signature definitions from external feeds.
 
 ---
+##  Screenshots & Evidence
+
+* docs/suricata-interface.png — Suricata engine status active and bound to the LAN (`em1`) interface.
+* docs/nmap-simulation.png — Reconnaissance and OS detection scan executed from Kali Linux targeting the gateway.
 
 ##  Threat Simulation & Detection Workflow
 
