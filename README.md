@@ -48,16 +48,6 @@ Building this lab involved resolving several real-world network and OS deploymen
 
 ---
 
-##  Screenshots & Evidence
-
-> *Include relevant screenshots here for report validation.*
-
-* docs/suricata-interface.png — Suricata engine status active on LAN (`em1`).
-* docs/suricata-updates.png — Emerging Threats ruleset update logs.
-* docs/recon-alerts.png — Captured alerts from simulated Kali Linux scans.
-
----
-
 ##  Key Takeaways
 * Practical experience in network segmentation, interface binding, and firewall rulesets.
 * Hands-on exposure to signature-based intrusion detection systems (IDS).
